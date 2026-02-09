@@ -23,3 +23,8 @@ python app.py
 
 ## Run Benchmark
 python benchmark.py
+
+## Sample Output
+
+### Real-Time Object Detection
+![Detection](Images/detection_output.png)
