@@ -30,7 +30,7 @@ python benchmark.py
 ![Detection](Images/detection_output.png)
 
 ### CPU vs GPU Benchmark
-![Benchmark](Images/benchmark_results.png)
+![Benchmark](Images/benchmark_results.jpeg)
 
 ## Results
 - GPU FPS: 71.38
