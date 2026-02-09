@@ -28,3 +28,11 @@ python benchmark.py
 
 ### Detection Result
 ![Detection](Images/detection_output.png)
+
+### CPU vs GPU Benchmark
+![Benchmark](Images/benchmark_results.png)
+
+## Results
+- GPU FPS: 71.38
+- GPU is 16× faster than CPU
+
