@@ -27,4 +27,4 @@ python benchmark.py
 ## Sample Output
 
 ### Real-Time Object Detection
-![Detection](Images/detection_output.png)
+![Detection](images/detection_output.png)
