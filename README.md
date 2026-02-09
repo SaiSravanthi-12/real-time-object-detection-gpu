@@ -26,4 +26,5 @@ python benchmark.py
 
 ## Sample Output
 
-![Detection](detection_output.png)
+### Detection Result
+![Detection](Images/detection_output.png)
